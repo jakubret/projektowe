@@ -1,0 +1,778 @@
+{
+    "masked_folder": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked",
+    "without_folder": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3",
+    "total_pairs": 2908,
+    "accuracy": 85.0828729281768,
+    "pairs": [
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000001_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000001.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000002_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000002.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000005_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000005.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000006_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000006.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000007_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000007.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000008_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000008.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000009_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000009.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000010_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000010.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000011_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000011.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000012_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000012.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000013_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000013.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000014_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000014.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000015_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000015.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000016_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000016.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000017_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000017.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000018_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000018.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000019_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000019.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000020_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000020.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000021_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000021.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000022_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000022.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000023_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000023.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000024_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000024.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000025_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000025.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000026_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000026.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000027_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000027.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000028_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000028.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000029_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000029.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000030_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000030.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000031_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000031.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000032_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000032.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000033_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000033.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000034_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000034.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000035_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000035.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000038_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000038.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000039_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000039.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000040_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000040.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000041_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000041.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000042_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000042.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000043_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000043.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000044_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000044.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000045_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000045.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000046_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000046.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000047_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000047.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000049_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000049.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000050_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000050.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000051_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000051.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000052_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000052.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000054_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000054.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000055_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000055.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000056_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000056.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000057_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000057.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000058_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000058.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000059_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000059.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000061_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000061.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000064_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000064.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000065_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000065.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000070_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000070.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000071_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000071.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000073_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000073.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000074_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000074.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000075_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000075.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000076_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000076.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000077_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000077.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000078_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000078.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000079_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000079.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000080_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000080.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000081_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000081.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000082_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000082.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000083_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000083.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000084_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000084.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000085_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000085.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000086_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000086.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000087_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000087.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000088_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000088.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000090_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000090.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000091_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000091.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000092_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000092.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000096_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000096.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000097_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000097.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000098_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000098.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000099_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000099.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000100_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000100.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000101_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000101.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000103_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000103.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000104_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000104.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000106_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000106.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000107_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000107.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000108_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000108.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000109_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000109.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000112_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000112.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000113_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000113.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000115_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000115.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000116_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000116.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000117_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000117.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000118_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000118.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000119_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000119.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000121_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000121.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000122_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000122.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000123_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000123.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000125_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000125.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000126_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000126.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000127_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000127.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000129_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000129.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000130_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000130.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000131_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000131.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000132_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000132.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000133_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000133.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000134_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000134.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000135_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000135.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000136_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000136.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000139_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000139.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000140_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000140.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000141_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000141.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000142_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000142.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000143_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000143.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000144_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000144.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000147_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000147.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000148_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000148.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000151_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000151.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000152_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000152.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000153_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000153.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000155_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000155.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000156_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000156.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000157_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000157.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000160_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000160.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000161_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000161.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000162_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000162.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000163_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000163.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000164_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000164.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000165_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000165.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000168_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000168.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000171_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000171.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000172_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000172.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000173_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000173.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000174_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000174.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000175_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000175.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000176_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000176.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000177_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000177.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000178_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000178.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000179_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000179.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000180_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000180.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000181_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000181.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000182_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000182.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000183_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000183.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000184_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000184.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000185_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000185.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000186_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000186.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000187_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000187.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000188_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000188.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000189_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000189.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000190_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000190.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000191_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000191.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000192_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000192.jpg",
+            "is_same_person": true
+        },
+        {
+            "masked_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3_masked\\000194_surgical.jpg",
+            "without_image": "C:\\Users\\Acer Nitro 5\\Desktop\\STUDIA\\5 SEMESTR\\asd\\dataset3\\000194.jpg",
+            "is_same_person": true
+        }
+    ]
+}
